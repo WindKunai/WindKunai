@@ -73,15 +73,15 @@ func main() {
 
 ---
 
-## 🎓 Master's Thesis Spotlight
+## 🎓 Bachlor's Thesis Spotlight
 
 <div align="center">
 
-> **"Training AI to Recognize Numerical Values and Their Semantic Context"**
+> **"Annotation Tool for Building Datasets for Fact-Checking Machine Learning Models"**
 
 </div>
 
-I'm designing and building a **data generation & annotation tool** that produces rich training datasets for ML models — teaching them not just to _see_ a number, but to understand **what it means in context** (e.g. a temperature vs. a distance vs. a price).
+I've built a **data annotation tool** that produces rich training datasets for ML models — teaching them not just to _see_ a number, but to understand **what it means in context** to determine if a claim is truthful or deceptive.
 
 Key challenges I'm tackling:
 - 🗄️ **Schema design** — representing diverse numerical domains in a flexible, query-efficient database
