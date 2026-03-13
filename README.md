@@ -30,7 +30,7 @@ type Developer struct {
 func main() {
 	me := Developer{
 		Name:       "Mathias Elstrøm",
-		GradYear:        2027,
+		GradYear:   2027,
 		University: "NTNU – Norwegian University of Science and Technology",
 		Degree:     "Master's in Computer Science",
 		Focus:      []string{"Databases", "Database Structure", "AI/ML"},
