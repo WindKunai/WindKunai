@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+WindKunai+%F0%9F%91%8B;MSc+Computer+Science+%40+NTNU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hey%2C+I'm+Mathias+Elstrøm+%F0%9F%91%8B;MSc+Computer+Science+%40+NTNU)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=WindKunai&style=flat-square&color=58A6FF" alt="Profile views" />
 
