@@ -18,7 +18,7 @@ import "fmt"
 
 type Developer struct {
 	Name        string
-	GradYear         int
+	GradYear    int
 	University  string
 	Degree      string
 	Focus       []string
